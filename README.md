@@ -11,7 +11,7 @@
 
 |  Page View | Search View |
 |--------------|--------------|
-| ![Page Screenshot](./Page.png) | ![Search Screenshot](./search.png) |
+| ![Page Screenshot](./Page.png) | ![Search Screenshot](./Search.png) |
 
 ---
 
