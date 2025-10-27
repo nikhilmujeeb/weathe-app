@@ -9,7 +9,7 @@
 
 ## 🖼️ Screenshots
 
-| Mobile View | Desktop View |
+|  Page View | Search View |
 |--------------|--------------|
 | ![Page Screenshot](./Page.png) | ![Search Screenshot](./search.png) |
 
@@ -26,7 +26,6 @@
 - ⚠️ **Error-Proof Experience** – Handles typos, missing cities, and network hiccups gracefully.  
 - 🌀 **Loading Feedback** – Shows friendly “loading” indicators while fetching data.  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -38,7 +37,6 @@
 | **Persistence** | Browser `localStorage` |
 | **Auth / Keys** | None required (both APIs are public and free) |
 
----
 
 ## 🚀 Getting Started
 
@@ -56,10 +54,12 @@ npm start
 The app will be available at 👉 http://localhost:3000
 
 ### 🌐 Live Demo
+
 Try it instantly on CodeSandbox:
 👉 https://hqlkf5-3000.csb.app/
 
 ### 🤖 Built with AI Collaboration
+
 This project was co-developed with iterative guidance from AI to:
 
 Translate Jamie’s user need (“quickly check the current weather for any city”) into design goals
@@ -76,6 +76,7 @@ Polish the UI with Unicode icons and a fully responsive layout
 https://chatgpt.com/share/68ff6962-2068-800d-abea-e6c8f62382b8
 
 ### 📝 Project Notes
+
 Built for a UI take-home challenge addressing User Need #2: Weather Now
 
 Focused purely on current weather for simplicity and speed
@@ -85,6 +86,7 @@ Designed for clarity, accessibility, and minimal dependencies
 No API keys or user accounts required
 
 ### 💡 Future Enhancements
+
 🌤️ Add a 3-day or hourly forecast
 
 📍 Auto-detect user location via browser
