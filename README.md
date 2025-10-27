@@ -38,17 +38,15 @@
 | **Auth / Keys** | None required (both APIs are public and free) |
 
 
-## 🚀 Getting Started
+### 🚀 Getting Started
 
 To run **Weather Now** locally:
 
 # Clone the repository
 git clone https://github.com/your-username/weather-now.git
 cd weather-now
-
 # Install dependencies
 npm install
-
 # Start the development server
 npm start
 The app will be available at 👉 http://localhost:3000
@@ -87,10 +85,10 @@ No API keys or user accounts required
 
 ### 💡 Future Enhancements
 
-🌤️ Add a 3-day or hourly forecast
+Add a 3-day or hourly forecast
 
-📍 Auto-detect user location via browser
+Auto-detect user location via browser
 
-💾 Cache API results for offline use
+Cache API results for offline use
 
-🎨 Add a dark/light mode toggle
+Add a dark/light mode toggle
