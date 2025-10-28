@@ -13,7 +13,7 @@
 |--------------|--------------|
 | ![Page Screenshot](./Page.png) | ![Search Screenshot](./Search.png) |
 
-# Demo Video - [Video](https://drive.google.com/file/d/1tCi8pucinZEp-fUzvuZE_f5_y7iuFGyG/view?usp=drive_link)
+# Demo - [Video](https://drive.google.com/file/d/1tCi8pucinZEp-fUzvuZE_f5_y7iuFGyG/view?usp=drive_link)
 
 
 ---
